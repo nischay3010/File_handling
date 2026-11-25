@@ -1,0 +1,3 @@
+Keyboard | O101 | 2500
+Mouse | O102 | 2600
+Laptop | O103 | 3000

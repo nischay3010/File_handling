@@ -1,0 +1,5 @@
+product_id,product_name,category,price,stock
+101,Laptop,Electronics,75000,12
+102,Wireless Mouse,Electronics,1500,50
+103,Office Chair,Furniture,8500,20
+104,Keyboard,Electronics,2500,35
